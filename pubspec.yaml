@@ -20,3 +20,4 @@ dependencies:
   flutter:
     sdk: flutter
   native_device_orientation: ^1.0.0
+  services: ^0.0.1
